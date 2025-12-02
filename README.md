@@ -19,27 +19,27 @@ Construir um pipeline completo de ingestão, transformação, armazenamento e mo
 
 Stack sugerido:
 
-# Dados: CSV, API pública de vendas, ou dataset Kaggle
+- Dados: CSV, API pública de vendas, ou dataset Kaggle
 
-# ETL: PySpark + Delta Lake (Databricks)
+- ETL: PySpark + Delta Lake (Databricks)
 
-# Orquestração: Airflow ou Azure Data Factory
+- Orquestração: Airflow ou Azure Data Factory
 
-# Modelagem: ML em Python (sklearn / LightGBM / XGBoost)
+- Modelagem: ML em Python (sklearn / LightGBM / XGBoost)
 
-# Armazenamento: Azure Data Lake + Synapse
+- Armazenamento: Azure Data Lake + Synapse
 
-# Visualização: Power BI ou React dashboard
+- Visualização: Power BI ou React dashboard
 
 ## O que vai demonstrar:
 
-# Domínio de pipeline em batch
+- Domínio de pipeline em batch
 
-# Transformações em Spark + Delta Lake
+- Transformações em Spark + Delta Lake
 
-# Deploy de modelo preditivo
+- Deploy de modelo preditivo
 
-# Integração de dados + dashboard
+- Integração de dados + dashboard
 
 
 
